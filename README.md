@@ -2,6 +2,7 @@
 
 This is a repo where I will be keeping track of things to eat: specifically, books and papers. Recipe reccomendations creatly appreciated.
 
+Each file contains a reading list for the subjects they are labeled by. Each reading list is (hopefully) in the correct order of consumption.
 
 ## FAQ
 
