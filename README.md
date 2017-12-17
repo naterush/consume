@@ -1,13 +1,12 @@
 # consume
 
-This is a repo where I will be keeping track of things to eat: specifically, books and papers. Recipe reccomendations creatly appreciated.
-
+A list of things I'd like to eat one day: specifically, books and papers. Recipe reccomendations creatly appreciated.
 
 ## FAQ
 
 ### Why only books and papers?
 
-Because I can print them. Unfortunatly, I suffer from an extreme case of internet addiction, and so as much I'd love to watch informational videos, this would make it far to easy for me to get distracted. For now (untill I come up with a solution to the distraction problem), I'm going to try to go totally vegan (or some other intense diet); only things that can be served on paper are allowed. 
+Because I can print them. Unfortunately, I suffer from an extreme case of letting-the-internet-distract-me, and so as much I'd love to watch informational videos, it's probably not the best idea. For now (untill I come up with a solution to the distraction problem), I'm going to try to go totally vegan (or some other intense diet); only things that can be served on paper are allowed. 
 
 
 
