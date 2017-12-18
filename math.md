@@ -16,13 +16,14 @@
 
 
 ## Calculus
--
+- [Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra](https://www.amazon.com/Calculus-Vol-One-Variable-Introduction-Algebra/dp/0471000051)
+- [Calculus, 4th edition](https://www.amazon.com/Calculus-4th-Michael-Spivak/dp/0914098918/ref=sr_1_1?ie=UTF8&keywords=spivak+calculus&qid=1397924059&s=books&sr=1-1)
 
 ## Statistics
 -
 
 ## Linear Algebra
--
+- [Linear Algebra Done Right](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/ref=sr_1_1?ie=UTF8&qid=1513568142&sr=8-1&keywords=Linear+Algebra+Done+Right)
 
 ## Topology
 -
