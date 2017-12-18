@@ -1,12 +1,15 @@
 # consume
-A list of things I'd like to eat one day: specifically, books and papers. Recipe reccomendations creatly appreciated.
+A list of things I'm planning on eating. Recipe reccomendations greatly appreciated :)
 
-Each file contains a reading list for the subjects they are labeled by. Each reading list is (hopefully) in the correct order of consumption.
 ## FAQ
 
-### Why only books and papers?
+### Why won't you eat anything off the internet?
 
-Because I can print them. Unfortunately, I suffer from an extreme case of letting-the-internet-distract-me, and so as much I'd love to watch informational videos, it's probably not the best idea. For now (untill I come up with a solution to the distraction problem), I'm going to try to go totally vegan (or some other intense diet); only things that can be served on paper are allowed. 
+The internet's a lovely place, filled with content galore. As far as consumption goes, you really couldn't ask for more. 
 
+However, in this specific case, as many reading this may know, it's also deeply distracting, a fact I don't care for. 
 
+For this reason, I reason, I'd rather be brazen, and phase in more paper from which to eat.
+
+With gumption, I stick to my assumption: consumption is better off a physical sheet.
 
