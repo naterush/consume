@@ -1,5 +1,8 @@
 # Economics
 
+
+[The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers](https://www.amazon.com/Worldly-Philosophers-Economic-Thinkers-Seventh/dp/068486214X/ref=sr_1_1?ie=UTF8&qid=1515702628&sr=8-1&keywords=wordly+philosophers)
+
 ## Political Economy
 - [Wealth of Nations](https://www.amazon.com/Wealth-Nations-Bantam-Classics/dp/0553585975/ref=sr_1_1?ie=UTF8&qid=1513555489&sr=8-1&keywords=wealth+of+nations+adam+smith)
 - [Principles of Political Economy and Taxation](https://www.amazon.com/Principles-Political-Economy-Taxation/dp/0486434613/ref=sr_1_1?s=books&ie=UTF8&qid=1513555589&sr=1-1&keywords=Principles+of+Political+Economy+and+Taxation)
@@ -26,5 +29,3 @@
 
 ## Contract Theory
 - [The Economics of Contracts](https://www.amazon.com/Economics-Contracts-Primer-2nd-Press/dp/0262534223/ref=sr_1_2?s=books&ie=UTF8&qid=1513567492&sr=1-2&keywords=contract+theory)
-
-
