@@ -1,6 +1,7 @@
 # Computer Science Reading
 
-
+## Basic Math
+- [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/dp/0201558025/?tag=stackoverflow17-20)
 
 ## Computation
 - [Turing Machines](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
