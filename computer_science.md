@@ -1,18 +1,23 @@
 # Computer Science Reading
 
-## Basic Math
-- [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/dp/0201558025/?tag=stackoverflow17-20)
-
-## Computation
+## Models of Computation
+### Turing Machines
 - [Turing Machines](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+- [Notes on Turing Machines](http://www.cs.cornell.edu/courses/cs4820/2012sp/handouts/turingm.pdf)
+### Lambda Calculus
 - [Untyped Lambda Calculus](https://www.ps.uni-saarland.de/courses/sem-ws15/ulc.pdf)
 - [Simply Typed Lambda Calculus](http://www.lfcs.inf.ed.ac.uk/reports/98/ECS-LFCS-98-381/ECS-LFCS-98-381.pdf)
+### Process Calculi
 - [Communicating and Mobile Systems: The Pi Calculus](https://www.amazon.com/Communicating-Mobile-Systems-Pi-Calculus/dp/0521658691/ref=sr_1_3?ie=UTF8&qid=1513472041&sr=8-3&keywords=robin+milner)
+- [A Reflective Higher-order Calculus](https://ac.els-cdn.com/S1571066105051893/1-s2.0-S1571066105051893-main.pdf?_tid=b6c1a0dc-f954-11e7-bbc1-00000aacb35e&acdnat=1515952969_1e0de2026207e7585845b8115763b9bd)
+
+
+## Algorithms
+- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 
 ## Cryptography
 - [Cryptography Engineering](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications-ebook/dp/B004NSW9JU/ref=sr_1_3?ie=UTF8&qid=1513570155&sr=8-3&keywords=Cryptography+Engineering)
-- [Understanding Cryptography: A Textbook for Students and Practitioners](https://www.amazon.com/Understanding-Cryptography-Textbook-Students-Practitioners-ebook/dp/B014P9I39Q/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=FC04X21D7FQGM53YN44S)
 - [Post Quantum Cryptography](https://www.amazon.com/Post-Quantum-Cryptography-Daniel-J-Bernstein/dp/3540887016/ref=sr_1_1?ie=UTF8&qid=1513570203&sr=8-1&keywords=post+quantum+cryptography%5D)
 
 
@@ -31,4 +36,5 @@ Performance](http://delivery.acm.org/10.1145/360000/350432/p195-bondi.pdf?ip=130
 
 
 ## Machine Learning
+- [Machine Learning: For Absolute Beginners](https://www.amazon.com/Machine-Learning-Beginners-Beginners-Algorithms-ebook/dp/B0779KVVJ6/ref=sr_1_2_sspa?ie=UTF8&qid=1515952838&sr=8-2-spons&keywords=algorithms&psc=1)
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
