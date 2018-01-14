@@ -1,5 +1,10 @@
 # Computer Science Reading
 
+## Math
+- [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321462254)
+- [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)
+
+
 ## Models of Computation
 ### Turing Machines
 - [Turing Machines](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
@@ -14,6 +19,8 @@
 
 ## Algorithms
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [Algorithmics for Hard Problems](https://www.amazon.com/Algorithmics-Hard-Problems-Combinatorial-Randomization/dp/3540441344/ref=sr_1_1?ie=UTF8&qid=1515967466&sr=8-1&keywords=Algorithmics+for+Hard+Problems)
+- [Graph Algorithms](https://www.amazon.com/Graph-Algorithms-Shimon-Even/dp/0521736536)
 
 
 ## Cryptography
@@ -36,5 +43,9 @@ Performance](http://delivery.acm.org/10.1145/360000/350432/p195-bondi.pdf?ip=130
 
 
 ## Machine Learning
-- [Machine Learning: For Absolute Beginners](https://www.amazon.com/Machine-Learning-Beginners-Beginners-Algorithms-ebook/dp/B0779KVVJ6/ref=sr_1_2_sspa?ie=UTF8&qid=1515952838&sr=8-2-spons&keywords=algorithms&psc=1)
+- [Artificial Intelligence: A Modern Approach ](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
+
+
+## Miscellaneous
+- [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/Godel-Escher-Bach-Eternal-Golden/dp/0465026567)
