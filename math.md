@@ -1,21 +1,27 @@
 # Math
-I'd like to learn the basics of a bunch of things. Generally, this is meant to be organized in the order they should be learned (though some parts may and should be learned in parallel).
+The dependency graph here is probably a bit more necessary to understand than with other subjects. Earlier subjects should be learned first, but subjects separated by a line can be learned in parallel.
+
 
 ## Calculus / Linear Algebra
 - [Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra](https://www.amazon.com/Calculus-Vol-One-Variable-Introduction-Algebra/dp/0471000051)
 - [Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability](https://www.amazon.com/002-Multi-Variable-Applications-Differential-Probability/dp/0471000078/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0471000078&pd_rd_r=B4BQR9KF7RGEBAVX78E4&pd_rd_w=F0aXO&pd_rd_wg=WoYHo&psc=1&refRID=B4BQR9KF7RGEBAVX78E4)
 
 
-## Algebra
-- [Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349)
-
 ## Analysis
 - [Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf)
 
+------------
+
+## Algebra
+- [Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349)
+
+## Number Theory
+- [An Invitation to Modern Number Theory](https://www.amazon.com/Invitation-Modern-Number-Theory/dp/0691120609/ref=sr_1_1?ie=UTF8&qid=1516056643&sr=8-1&keywords=An+Invitation+to+Modern+Number+Theory)
+
 ------------------------------
 
-## Statistics
-- [Statistics, Third Edition](https://www.amazon.com/Statistics-Third-David-Freedman/dp/0393970833)
+## Statistics and Probability Theory
+- [Statistics, 4th Edition](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728)
 - [An Introduction to Probability Theory and Its Applications (1)](https://www.amazon.com/gp/product/0471257087/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0471257087&linkCode=as2&tag=bayesianinfer-20)
 - [An Introduction to Probability Theory and Its Applications (2)](https://www.amazon.com/Introduction-Probability-Theory-Applications-Vol/dp/0471257095/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0471257095&pd_rd_r=127TVRS8NJGC8MK7B8J6&pd_rd_w=ehdtQ&pd_rd_wg=MaLht&psc=1&refRID=127TVRS8NJGC8MK7B8J6)
 
