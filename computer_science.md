@@ -21,6 +21,7 @@
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - [Algorithmics for Hard Problems](https://www.amazon.com/Algorithmics-Hard-Problems-Combinatorial-Randomization/dp/3540441344/ref=sr_1_1?ie=UTF8&qid=1515967466&sr=8-1&keywords=Algorithmics+for+Hard+Problems)
 - [Graph Algorithms](https://www.amazon.com/Graph-Algorithms-Shimon-Even/dp/0521736536)
+- [Purely Functional Data Structures](https://www.amazon.com/dp/0521663504/?tag=stackoverflow17-20)
 
 
 ## Cryptography
