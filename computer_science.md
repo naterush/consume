@@ -29,18 +29,33 @@
 - [Post Quantum Cryptography](https://www.amazon.com/Post-Quantum-Cryptography-Daniel-J-Bernstein/dp/3540887016/ref=sr_1_1?ie=UTF8&qid=1513570203&sr=8-1&keywords=post+quantum+cryptography%5D)
 
 
-## Consensus
+## Distributed Computing
+### Theory
+- [Programming Distributed Computing Systems: A Foundational Approach](https://www.amazon.com/Programming-Distributed-Computing-Systems-Foundational/dp/0262018985/ref=pd_bxgy_14_3?_encoding=UTF8&pd_rd_i=0262018985&pd_rd_r=JW6H6EMBQHYX6SCC6VB0&pd_rd_w=vtAD9&pd_rd_wg=JazzA&psc=1&refRID=JW6H6EMBQHYX6SCC6VB0)
+- [FLP Impossibility](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+- [The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/byz.pdf)
+- [A Hundred Impossibility Proofs for Distributed Computing](https://groups.csail.mit.edu/tds/papers/Lynch/MIT-LCS-TM-394.pdf)
+- [Distributed Computing: Principles, Algorithms, and Systems](https://www.amazon.com/Distributed-Computing-Principles-Algorithms-Systems/dp/0521189845/ref=sr_1_1?ie=UTF8&qid=1516316721&sr=8-1&keywords=distributed+computing)
+### Consensus
+- [Paxos Made Simple](http://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [Paxos](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [Consensus in the Presence of Partial Synchrony](http://twiki.di.uniroma1.it/pub/SD/Diario0607/p288-dwork.pdf)
 - [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [Fast Byzantine Consensus](https://www.cs.utexas.edu/~lorenzo/papers/Martin06Fast.pdf)
 - [Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://allquantor.at/blockchainbib/pdf/ben1983another.pdf)
 - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
+- [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+### P2P and Gossip
+- [How robust are gossip-based communication protocols?](https://infoscience.epfl.ch/record/109302/files/robustgossip-final.pdf)
+- [Chord](https://github.com/sit/dht/wiki)
+- [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+### CAP and More
+- [CAP Conjecture](https://www.glassbeam.com/sites/all/themes/glassbeam/images/blog/10.1.1.67.6951.pdf)
+- [Perspectives on the CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
 
-## Scaling
-- [Characteristics of Scalability and Their Impact on
-Performance](http://delivery.acm.org/10.1145/360000/350432/p195-bondi.pdf?ip=130.91.141.74&id=350432&acc=PUBLIC&key=A792924B58C015C1%2E18947888DF2D0EEA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=850221936&CFTOKEN=95684680&__acm__=1515705370_5a3f9bcb679f26cd806dd6d414c79aae)
-- [Salt](http://www.cs.cornell.edu/lorenzo/papers/Chao14Salt.pdf)
+
+## Software
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0134494164&pd_rd_r=JW6H6EMBQHYX6SCC6VB0&pd_rd_w=4Wv6k&pd_rd_wg=JazzA&psc=1&refRID=JW6H6EMBQHYX6SCC6VB0)
 
 
 ## Machine Learning
