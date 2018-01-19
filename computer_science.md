@@ -1,8 +1,8 @@
 # Computer Science Reading
 
 ## Math
-- [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321462254)
-- [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)
+- [Theory Of Computation](http://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf)
+- [Concrete Mathematics: A Foundation for Computer Science](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
 
 
 ## Models of Computation
@@ -13,6 +13,7 @@
 - [Untyped Lambda Calculus](https://www.ps.uni-saarland.de/courses/sem-ws15/ulc.pdf)
 - [Simply Typed Lambda Calculus](http://www.lfcs.inf.ed.ac.uk/reports/98/ECS-LFCS-98-381/ECS-LFCS-98-381.pdf)
 ### Process Calculi
+- [An Introduction to the Pi-Calculus](https://www.risc.jku.at/education/oldmoodle/file.php/28/intro-1.pdf)
 - [Communicating and Mobile Systems: The Pi Calculus](https://www.amazon.com/Communicating-Mobile-Systems-Pi-Calculus/dp/0521658691/ref=sr_1_3?ie=UTF8&qid=1513472041&sr=8-3&keywords=robin+milner)
 - [A Reflective Higher-order Calculus](https://ac.els-cdn.com/S1571066105051893/1-s2.0-S1571066105051893-main.pdf?_tid=b6c1a0dc-f954-11e7-bbc1-00000aacb35e&acdnat=1515952969_1e0de2026207e7585845b8115763b9bd)
 
