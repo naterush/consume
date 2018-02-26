@@ -21,6 +21,7 @@
 - [Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations](https://www.amazon.com/Tallinn-Manual-International-Applicable-Operations/dp/1316630374/ref=sr_1_1?ie=UTF8&qid=1515692929&sr=8-1&keywords=tallin+manual)
 - [Computer Crime Law](https://www.amazon.com/Computer-Crime-Law-American-Casebook/dp/0314281363)
 
+
 ## Random
 - [The Problem of Social Cost](https://www.jstor.org/stable/pdf/724810.pdf)
 - [The Right to Privacy](http://www.cs.cornell.edu/~shmat/courses/cs5436/warren-brandeis.pdf)
